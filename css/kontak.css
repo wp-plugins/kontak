@@ -1,0 +1,20 @@
+.kontakformatform{width:500px;margin:0 auto;overflow:hidden}
+.kontakformatform label{width:160px;margin-right:10px;text-align:right;display:block;float:left;font-size:12px;}
+.kontakformatform input[type='text'],.kontakformatform input[type='email'],.kontakformatform input[type='url'],.kontakformatform input[type='number'],.kontakformatform input[type='date'],.kontakformatform input[type='password'],.kontakformatform select,.kontakformatform textarea{float:left;width:240px;font-style:normal;font-size:12px;}
+.kontakformatform select{width:246px}
+.kontakformatform div.divider{margin-bottom:10px !important;}
+.kontakformatform div.divider > div.br {clear:both !important;height:1px;}
+.kontakformatform .submit{margin:10px auto;text-align: center}
+.message,.msq_success{border:1px solid #D80618;background-color: #F9D1D5;padding:10px;color:#000;font-size:11px;margin-bottom:20px;}
+.msq_success{border-color:#3EB536;background-color:#C6F7C3;}
+.note{font-size:11px;margin:10px;}
+.kontakformatform .nostyle,.kontakformatform input.nostyle{display:inline;float:none;margin:0;text-align:left;width:auto}
+.kontakformatform .gentextleft{float:left;text-align:left;width:240px;height:25px;line-height:25px}
+.kontak_msg{margin:20px; color:#f21616; font-size:11px;}
+.kontak_center{text-align: center}
+.kontak_branding{font-size:10px; width:90%;text-align:right;margin:20px 0;}
+.kontak_branding a{text-decoration: none;color:#08515A;}
+.kontak_branding a{text-decoration: underline;}
+#icon-kontak  {
+    background:url("../images/kontak_32_blue.png") no-repeat scroll 1px 1px transparent;
+}
