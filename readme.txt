@@ -6,7 +6,7 @@ Requires at least: 3.0.0
 Tested up to: 3.3.1
 Stable tag: trunk
 
-Kontak is free a contact form plugin that is coded in HTML5 / CSS3 and has CAPTCHA that does not use PHP sessions. Messages are sent by email.
+Kontak is a free contact form plugin that is coded in HTML5 / CSS3 and has CAPTCHA that does not use PHP sessions. Messages are sent by email.
 
 == Description ==
 
@@ -36,10 +36,6 @@ Kontak is free a contact form plugin that is coded in HTML5 / CSS3 and has CAPTC
 </ul>
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
-
-e.g.
 
 1. Go to WP admin site to install plugin and activate
 2. Click on the "Kontak" link at the bottom left navigation/menu
